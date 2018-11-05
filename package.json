@@ -1,0 +1,10 @@
+{
+  "name": "awesome-zero-knowledge-proofs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mattgstevens <mattgstevens@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.14.3"
+  }
+}
